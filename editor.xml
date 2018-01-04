@@ -2,5 +2,5 @@
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="14" />
   </component>
-  <component name="LiveEditOptions" chromeUpdateApp="true" chromeUpdateOnChanges="true" />
+  <component name="LiveEditOptions" chromeUpdateApp="true" chromeUpdateOnChanges="true" restartIfHotSwapFailed="true" />
 </application>
