@@ -22,8 +22,11 @@
   <action id="EditorDuplicate" />
   <action id="EditorSelectWord" />
   <action id="FileChooser.GotoDesktop" />
+  <action id="FileChooser.NewFolder" />
   <action id="FileChooser.TogglePathShowing" />
   <action id="GotoBookmark7" />
+  <action id="GotoChangedFile" />
+  <action id="GotoClass" />
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="shift meta n" />
     <keyboard-shortcut first-keystroke="meta p" />
@@ -31,6 +34,9 @@
   <action id="InsertLiveTemplate" />
   <action id="Javascript.Linters.EsLint.Fix">
     <keyboard-shortcut first-keystroke="shift meta l" />
+  </action>
+  <action id="NewFile">
+    <keyboard-shortcut first-keystroke="meta n" />
   </action>
   <action id="ParameterInfo" />
   <action id="RunDashboard.CopyConfiguration" />
